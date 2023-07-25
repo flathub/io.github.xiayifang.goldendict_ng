@@ -1,4 +1,6 @@
 {
+  "end-of-life": "This was a mistake.",
+  "end-of-life-rebase": "io.github.xiaoyifang.goldendict_ng",
     "app-id": "io.github.xiayifang.goldendict_ng",
     "runtime": "org.kde.Platform",
     "runtime-version": "6.5",
